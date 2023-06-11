@@ -1,5 +1,7 @@
 # TextAlterer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Progressive Web Applications (PWA): Text Editor
 
 
@@ -15,9 +17,23 @@ I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 ```
 
+
 ## Technologies Used
 
 JSON, JavaScript, CSS, HTML, Express, IndexedDB API
+
+
+## Installation
+```
+npm install
+npm run build
+http://localhost:3001 on browser
+Then, deploy on Heroku
+```
+
+## Visual
+
+![Screenshot of Application]()
 
 
 ## Links
@@ -28,3 +44,9 @@ Deployed Heroku Link:
 
 
 ## License 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[MIT License](https://opensource.org/license/mit-0/)
+
+For the full text of this license, please click on the link provided.
