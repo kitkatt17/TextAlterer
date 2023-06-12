@@ -20,7 +20,7 @@ SO THAT I can reliably retrieve them for later use
 
 ## Technologies Used
 
-JSON, JavaScript, CSS, HTML, Express, IndexedDB API
+JSON, JavaScript, CSS, HTML, Express, IndexedDB API, Webpack Plugins, IndexedDB database
 
 
 ## Installation
