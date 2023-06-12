@@ -47,7 +47,7 @@ module.exports = () => {
       new WebpackPwaManifest({
         ...manifestOptions,
       }),
-      new WorkboxPlugin.GenerateSW()
+      // new WorkboxPlugin.GenerateSW()
     ],
 
     module: {

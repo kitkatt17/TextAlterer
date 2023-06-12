@@ -31,16 +31,17 @@ http://localhost:3001 on browser
 Then, deploy on Heroku
 ```
 
-## Visual
+## Visual Demo
 
-![Screenshot of Application]()
+![Screenshot of Application 1](./client/src/images/ssChallenge-19.PNG)
 
+![Screen of Application 2](./client/src/images/ssChallenge19.PNG)
 
 ## Links
 
 [GitHub Repo](https://github.com/kitkatt17/TextAlterer)
 
-Deployed Heroku Link: 
+Deployed Heroku Link:  - currently not deploying at the moment -
 
 
 ## License 
